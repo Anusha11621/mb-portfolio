@@ -178,6 +178,7 @@ a{
 /* END OF NAVBAR */
 .intro{
     padding: 5px;
+    padding-left: 15px;
 }
 .intro h1{
     font-size: 40px;
